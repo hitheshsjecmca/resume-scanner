@@ -32,7 +32,7 @@ function App() {
 
   return (
   <div className="container">
-    <h1 className="title">Resume Scanner 🚀</h1>
+    <h1 className="title">Resume  Scanner 🚀</h1>
 
     <div className="card">
       <input type="file" onChange={handleFileChange} />
